@@ -4,6 +4,7 @@ version = "0.1.0"
 description = "Python toy package to practice the process of making packages"
 authors = ["Trevor Kinsey <trevor_kinsey@hotmail.com>"]
 license = "MIT"
+readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.8"
